@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rajkumar Gapat</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="500" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/47/09/75/470975f6255df5edfc7c157d6f13ed20.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumargapat&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumargapat" /> </p>
 
