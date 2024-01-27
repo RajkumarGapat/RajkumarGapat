@@ -1,8 +1,8 @@
 ![logo](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
-<h1 align="center">Hey 👋, I'm Rajkumar Gapat</h1>
+<h1 align="center">Hey 👋, I'm Rajkumar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/47/09/75/470975f6255df5edfc7c157d6f13ed20.gif">
+<img align="right" alt="coding" width="400" src="[https://i.pinimg.com/originals/47/09/75/470975f6255df5edfc7c157d6f13ed20.gif](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumargapat&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumargapat" /> </p>
 
